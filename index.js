@@ -2,7 +2,7 @@ let lyrics = require("./lyrics");
 
 let tweetedLyrics = [];
 
-console.log(lyrics[0]);
+console.log(lyrics.length);
 
 function tweetLyric() {
   if (lyrics.length > 0) {

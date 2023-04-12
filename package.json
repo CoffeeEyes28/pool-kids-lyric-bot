@@ -4,7 +4,7 @@
   "description": "A Twitter bot that posts lyrics from the band Pool Kids every 8 hours.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
