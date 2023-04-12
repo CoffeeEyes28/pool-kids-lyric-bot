@@ -424,6 +424,309 @@ Throw me away, I'd rather not pretend`,
 
 // Almost Always Better (Almost Always Worse)
 
+`I still think about what you said
+I still hear it ring in my head
+I'm counting the colors I haven't bled
+Warming the layers I haven't shed`,
+
+`Recurring dreams of a place in time
+Where I wake up and I'm feeling fine`,
+
+`Resurface the mental dichotomy
+Of what's ahead or in front of me`,
+
+`The face you make when I humor you
+The space I take when I fill a room
+Overstimulation, without hesitation
+I'm running in circles around you`,
+
+`Guess I'll never win
+Guess I'm a hypocrite
+It came flooding in
+I still wanted it`,
+
+`I still think about what you said
+I still hear it ring in my head
+I'm watching your colors in infrared
+Playing you like a marionette again`, 
+
+`Do you hear that?
+That's the sound of me minding my own damn business
+Yeah, do you hear that?
+That's the sound of me taking my own advice`,
+
+`But I could take a rope and run it
+Through the spaces in your mind and pull it tight`,
+
+`And I could weigh you down with all the
+Asphalt pumping through my veins, only if you'd like`,
+
+`'Cause I like you, I really like you
+So I'll spare you, I'll spare you the details again`,
+
+// Further 
+
+`Do you remember the things I used to tell you?
+About all the things I wanted to feel but thought I wasn't allowed to?`,
+
+`How I was happy in my dream last night and
+Didn't feel guilty when I reached for your hand
+I wanna see it in my sleep again
+Wanna be told it's not a deadly sin`,
+
+`Do you remember the night she tried to change you?
+On the foot of my hotel bed I watched the color leave your face, it's burned in my brain`,
+
+`But I got a good laugh out of my friends today and
+I didn't need a pill to make me okay`,
+
+`I wanna see it when it really sets in
+Wanna be laughing when it breaks your skin`,
+
+`Do you feel guilty?
+Do you feel anything at all?
+Does it feel weird?
+To have yourself up against a wall?`,
+
+`Like stealing candy from a baby
+Not what it took for you to hate me
+And I might listen through the wall
+But I won't tell anything at all`,
+
+// Talk Too Much
+
+`You talk too much
+I can't hear my own thoughts over your performative opinions`,
+
+`I'll take it up with all your little minions
+Cause they're afraid of you anyway`,
+
+`I think I'll pass, after all no one asked
+I guess they don't have to
+To get a piece of you tonight`,
+
+`Oh, I'll bet you're fun at parties
+Bet you're the last one to leave`,
+
+`Why can't we call it even?
+I worked so hard to scrub it clean and then
+You fucked it up again
+Got caught up in your head`,
+
+`What's the use in us playing pretend?
+I'm holding more spite than anyone would recommend
+It's eating me alive
+It's rotting my insides`,
+
+`You play too rough
+Try to act so tough with your silly regurgitated opinions
+Speaking over the people you say you're lifting`,
+
+`And you talk too much
+Always showing up with a round of verbal ammunition
+Now I'm ganging up with all your little minions
+Cause they're afraid of you
+And I'm afraid of you`,
+
+`I guess that means you win
+You're underneath my skin
+And you've been comfortable there for quite some time now
+While I've been learning how to, learning how to ignore you`,
+
+`Why can't we call it even?
+I tried so hard to not be so mean
+And then it started to make sense
+Played the motions through my head`,
+
+`If you're the one who's always on the offense
+No one's gonna think to check inside your closet
+Skeletons collecting dust
+Sorted neatly, one by one`,
+
+`Cause people like you, they know how to get what they want`,
+
+`And people like you
+They know how to get ahead
+They'll twist around what you never said
+They'll chase you back and forth again`,
+
+`People like you
+They don't like you
+And if you want to
+You could get the things that you like`,
+
+// Comes In Waves
+
+`I can lie too
+I know you don't think I have it in me
+But what if I do?`,
+
+`Woke up feeling like myself today
+For a minute there, I
+I couldn't tell who's who`,
+
+`I've said it once to you before
+And I'll say it all again real slow this time
+I won't miss losing out on what I never try to find`,
+
+`And what about you?
+I'll bet you didn't think we'd make it this far
+But we've made do`,
+
+`Sometimes I wonder if you're boring
+But you know I only ask it out of spite
+'Cause I can't sleep without a fight`,
+
+`I'll keep the peace and hold it in
+Yeah, I learned it from the best`,
+
+`I'll let you keep your space, or maybe
+I call the shots until you pass my stupid little test
+And then I store it for later`,
+
+`it comes in waves
+ No it never stays, 
+ it just comes in waves`,
+
+ `I am the dirt that keeps them buried in the layers of the earth
+ The searing bulb that prays they never see the natural sun`,
+
+ `I am the green of every sepal holding fertile blossoms shut
+ The bind of every grip around the bases of their ripened stems
+ But when they bloom, they look so precious
+ But only by my side`,
+
+ `I don't know why
+ Tell me now, what's on your mind?`,
+
+ `Just let me stay and try again, I promise you
+ I can rewind`,
+
+ `it comes in waves
+ Oh, I promise it never stays
+ It just comes in waves`,
+
+//  I Hope You're Right
+
+`I've been avoiding this conversation
+Don't want to ruin your reputation`,
+
+`I think you got a misdiagnosis
+You just don't know what control is`,
+
+`Say you're sorry with a thousand roses
+You wanna “make it right”
+You got me laughing now`,
+
+`You wanna start a fight
+You wanna start a fight
+Cause you're always right`,
+
+`Right where you want to be
+Minimum wage
+The only people that are nice to you
+Are getting paid`,
+
+`It's been a thorn in your ass now for way too long
+You make it up as you go along`,
+
+`Do you think about me
+The way I think about you?
+You know I'm not stupid there's just
+Still so much left to undo`,
+
+// Swallow
+
+`You always told me I'd get over it
+I always said that you were wrong`,
+
+`I'm disappointed, but not surprised
+Some kind of quick-witted monologue`,
+
+`You said that you could almost picture it
+But it's not smart to shit where you eat`,
+
+`And when I said I would consider it
+I was lying, lying through my teeth`,
+
+`Can't put my finger on it
+Don't know what makes it so appealing
+I'm not begging for your affection
+I'm just addicted to the feeling`,
+
+`I think I'm slowing down
+I feel you slipping now
+You've seen and I know how
+It tends to flicker out`,
+
+`I was there when you were fun
+I'm like ice stuck to your tongue
+Dusty sweater in your trunk
+I can take a joke and run`,
+
+`I see you standing around
+Drinking beer outside of your house
+I can almost make out the vowels
+I know what you talk about`,
+
+`I thought about bringing you flowers
+To try to turn it around
+Gave up and stood in the shower
+I'll make do with or without`,
+
+`But the uniform never quite fit
+Antithesis to all your ways
+How the fuck am I convincing you?`,
+
+// Couch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
