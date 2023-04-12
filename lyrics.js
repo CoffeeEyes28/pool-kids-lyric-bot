@@ -461,7 +461,7 @@ Through the spaces in your mind and pull it tight`,
 `And I could weigh you down with all the
 Asphalt pumping through my veins, only if you'd like`,
 
-`'Cause I like you, I really like you
+`Cause I like you, I really like you
 So I'll spare you, I'll spare you the details again`,
 
 // Further 
@@ -575,7 +575,7 @@ But we've made do`,
 
 `Sometimes I wonder if you're boring
 But you know I only ask it out of spite
-'Cause I can't sleep without a fight`,
+Cause I can't sleep without a fight`,
 
 `I'll keep the peace and hold it in
 Yeah, I learned it from the best`,
@@ -679,6 +679,279 @@ Antithesis to all your ways
 How the fuck am I convincing you?`,
 
 // Couch
+
+`I guess I'm staying on the couch today
+I guess you're making all the rules`,
+
+`I'll take a push, but you give a shove
+And I'm getting weaker by the day`,
+
+`I've always been the one to hesitate
+I guess it started getting old
+Cause I'm moving slow and I'm feeling gross
+And we're getting staler by the day`,
+
+`Better luck next time
+You gotta know by now
+We're walking on a thin line`,
+
+`You're pulling out clumps
+You sweat in your sleep
+It's starting to ache
+In the back of your feet`,
+
+`It hurt so bad the second time around
+Stayed up all night and I listened to the sound
+Of neighbors fighting and you snoring lightly`,
+
+`thought about all the things
+You need so desperately
+Honesty is bittersweet`,
+
+`Caught you at a bad time, did I?
+You ought to know by now
+We're walking on thin ice`,
+
+`And I did everything wrong
+I tried my best to stay calm`,
+
+`You're canceling plans
+Turning it in early
+What's the point of staying late
+If they've heard all your stories?`,
+
+`You said “I do this when I'm mad"
+I guess I'm mad`,
+
+// Waking Up
+
+`I see your face in everyone
+Staring back at me`,
+
+`I hear your voice in every mouth
+Rearranging things`,
+
+`Their words are different
+But they still sound the same
+And they bruise in the same way`,
+
+`I know they're different, but
+They look just like you`,
+
+`So I keep shaking my head to get it out
+But I still see that look in their eye
+Even when it's not there`,
+
+`I don't think I'll ever get rid of you
+Three years of distance and I still see you in my dreams, hear you say
+“I don't think I've ever met somebody like you
+Complete me, I think you know what I mean"`,
+
+`You wake me up, I write it down
+And I'll see you the next time my lids get heavy`,
+
+`I won't come undone in front of you
+I will wait until you've left the room`,
+
+`Tell me everything, tell me everything
+I keep repeating myself`,
+
+// Arm's Length
+
+`I don't think I have the energy to make it out of my bed today
+It's not even a bed, I've been sleeping on an air mattress with a hole for almost three months`,
+
+`I don't think I have the energy to make it out of my bed today`,
+
+`Sometimes when I can't sleep
+I can feel the space I've put between
+The only people I'd risk everything for
+But if they'd whisper at my door
+I'd probably hide under the sheets`,
+
+`I'm in a group chat
+With 21 god-damn people`,
+
+`I wish I was exaggerating, but I'm not
+My phone crashes 37 times a day`,
+
+`But it's nice to have friends
+Sometimes it's nice to be left on read (wait no it's not)`,
+
+`I think I'm taking things too personally
+When did I get so sensitive?`,
+
+`I don't think I wanna waste my day
+Replaying all my past mistakes`,
+
+`It's a funny thing
+Selective memory, flipping through the casualties`,
+
+`If you don't cancel on the count of three
+It won't be looking too hot for me`,
+
+`I'm on damage control, got better parts to this whole
+I just haven't left this room in I don't know how many weeks`,
+
+`I work a job where
+I swear to god they're setting a timer when I take a bathroom break
+And I'm barely scraping minimum wage`,
+
+`The things they have the audacity to ask of me
+Better catch up with them eventually
+Oh, I'm begging please
+Let it catch them eventually`,
+
+`I don't think you wanna challenge me like you tried to yesterday`,
+
+`I can't even pretend, I considered every single word you said
+From beginning to end`,
+
+`And it's a sensitive subject
+And you can act like you think you're so above it`,
+
+`But I've got a foolproof plan and a prescription in hand
+And you can call it what you want, you'll never be my referee`,
+
+`It's my last night in the city that taught me I'm an extrovert
+And here I am, spending it alone`,
+
+`Laying on a carpet floor, staring at a wall
+Listing off all of the places I would rather be`,
+
+`I crawled into a hole for six months, then came creeping back out
+Expecting everything to be the same`,
+
+`And I dug this pit, and you enabled it`,
+
+`So I guess I'll, I'll disappear again
+200 miles west this time
+I'll get a job and make some fake friends and I'll be fine`,
+
+`just like the last time
+Arm's length, arm's length this time
+Arm's length, it's safer that way`,
+
+// Pathetic
+
+`I almost went back on what I said
+I almost let you make me look pathetic`,
+
+`I can't decide if I'm glad that I brought it up
+Cause now I can't look you in the eye
+And tell you I'm alright`,
+
+`You said winter's coming in
+And I'll have to hold you then`,
+
+`I almost bought a brand new king-sized bed
+I almost put together all the pieces of what you said`,
+
+`I can't decide if I'm the common denominator
+Am I a fraction of the girl you thought that you had loved?`,
+
+`Cause I am the center of my own world
+And you had had enough`,
+
+`Me without you, me without 
+ Me without you`,
+
+ `I can hear your voice from the other room
+ Speaking slowly, slowly, slowly
+ You're afraid of it, I'm afraid of it too`,
+
+ `Better off without me, and me without you`,
+
+ `I can hear her voice from the other room
+ Oh, she's laughing, laughing`,
+
+ `I can pull those strings from inside of you
+ Keep you happy, exactly where I want`, 
+
+ `Take your time with it
+ Cause I'll remember every word
+ Take your time with it
+ Cause I'll remember it`,
+
+ `You're afraid of it
+ I'm afraid of it
+ Can't run away from it
+ What can we make of it?`,
+
+ `What can we make of this?`,
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
