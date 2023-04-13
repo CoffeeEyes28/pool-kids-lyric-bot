@@ -1,21 +1,31 @@
 require('dotenv').config({path: __dirname + '/.env'});
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3001;
 
 const cron = require('cron').CronJob
-
 const { twitterClient } = require('./twitter.js');
+
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`)
+})
+
+
+
 
 
 let lyrics = require("./lyrics");
+const { CronJob } = require('cron');
 
 let tweetedLyrics = [];
 
-console.log(lyrics[25]);
+
 
 function tweetLyric() {
   if (lyrics.length > 0) {
     let index = Math.floor(Math.random() * lyrics.length);
     let chosenLyric = lyrics.splice(index, 1)[0];
-
+    
     tweetedLyrics.push(chosenLyric);
 
     createTweet(chosenLyric);
@@ -39,3 +49,10 @@ try {
   
 }
 }
+
+const cronTweet = new CronJob("* 0 */8 * * *", async () => {
+  console.log('running cron job');
+  tweetLyric();
+})
+
+cronTweet.start();
