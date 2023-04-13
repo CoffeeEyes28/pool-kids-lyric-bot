@@ -11,9 +11,6 @@ app.listen(port, () => {
 })
 
 
-
-
-
 let lyrics = require("./lyrics");
 const { CronJob } = require('cron');
 
@@ -28,7 +25,12 @@ function tweetLyric() {
     
     tweetedLyrics.push(chosenLyric);
 
-    createTweet(chosenLyric);
+    const regex = /(\n\s*)/g;
+    const newTweet = chosenLyric.replace(regex, '\n');
+
+
+
+    createTweet(newTweet);
 
   } else {
     let lyrics = tweetedLyrics;
