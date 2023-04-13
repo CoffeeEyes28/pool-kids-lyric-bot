@@ -51,7 +51,7 @@ try {
 }
 
 const cronTweet = new CronJob("* 0 */8 * * *", async () => {
-  console.log('running cron job');
+
   tweetLyric();
 })
 
